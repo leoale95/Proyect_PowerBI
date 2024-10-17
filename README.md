@@ -1,6 +1,8 @@
 
 # Power BI Survey Dashboard Project
 
+![Power BI Dashboard](proyecto%20power%20bi%20dashboard.PNG)
+
 ## Overview
 This project presents an interactive dashboard created in Power BI based on survey data. The dashboard provides insights into various aspects such as demographics, salary distribution, job satisfaction, and programming language preferences. The aim is to visualize and analyze the data collected from survey respondents, offering a comprehensive view of trends and correlations.
 
